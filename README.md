@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://dawndrums.tn"><img title="dawnwos" src="assets/dawnos.png" width="70%"/></a>
+<a href="https://dawndrums.tn"><img title="dawnwos" src="assets/dawnos.png" width="50%"/></a>
 </div>
 
 ## Overview
