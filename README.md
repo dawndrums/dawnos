@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://dawndrums.tn"><img title="dawnwos" src="assets/dawnos.png" width="70%"/></a>
-
+</div>
 ## Overview
 
 This is the main repository for DawnOS. By following the guidelines, you should be able to create a full DawnOS image from source.
